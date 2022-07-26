@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Waleed-xc/Waleed-xc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about laravel and php , flutter
 - 📫 How to reach me: you can reach me via my instagram waleedbadbean
 - ⚡ Fun fact: do you know that computers can be smarter than some humans (without Artifical Intelligence).
--->
+
