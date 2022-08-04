@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: you can reach me via my instagram waleedbadbean
 - ⚡ Fun fact: do you know that computers can be smarter than some humans (without Artifical Intelligence).
 
+<span class="material-icons">
+info
+</span>
+
