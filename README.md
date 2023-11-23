@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about laravel and php , flutter
 - 📫 How to reach me: you can reach me via my instagram waleedbadbean
 - ⚡ Fun fact: do you know that computers can be smarter than some humans (without Artifical Intelligence).
+
+
+<img src="https://cdn.simpleicons.org/nextdotjs" alt="Nextjs" height="48" width="48">
