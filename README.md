@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Waleed</h1>
 <p align = "center"> Web-Development</p>
-<div algin="center">
+<div  text-algin="center">
 <img src="https://cdn.simpleicons.org/nextdotjs" alt="Nextjs" height="48" width="48">
   <img src="https://cdn.simpleicons.org/react" alt="react" height="48" width="48">
 
@@ -19,16 +19,16 @@
 
 <br/>
 <p align = "center"> Mobile-Development </p>
-<div style= "text-align:"center;">
+<div text-align="center;">
 <img src="https://cdn.simpleicons.org/kotlin" alt="kotlin" height="48" width="48">
 <img src="https://cdn.simpleicons.org/flutter" alt="flutter" height="48" width="48">
 </div>
 
 <br/>
 
-<p align = "center"> Database ">
+<p align = "center"> Database
 </p>
-<div algin="center">
+<div text-algin="center">
 
 <img src="https://cdn.simpleicons.org/mysql" alt="mysql" height="48" width="48">
 <img src="https://cdn.simpleicons.org/firebase" alt="firebase" height="48" width="48">
@@ -39,7 +39,7 @@
   </div>
 <p align = "center"> DevOps 
 </p>
-<div algin="center">
+<div  text-algin="center">
 
 <img src="https://cdn.simpleicons.org/jira" alt="jira" height="48" width="48">
 <img src="https://cdn.simpleicons.org/github" alt="github" height="48" width="48">
