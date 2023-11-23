@@ -15,32 +15,27 @@
 <img src="https://cdn.simpleicons.org/jsonwebtokens" alt="jwt" height="48" width="48">
 </p>
 <br/>
-<br/>
 <p align = "center"> Mobile-Development </br></br>
 <img src="https://cdn.simpleicons.org/kotlin" alt="kotlin" height="48" width="48">
 <img src="https://cdn.simpleicons.org/flutter" alt="flutter" height="48" width="48">
 </p>
-<br/>
 <br/>
 <p align = "center"> Database </br></br>
 <img src="https://cdn.simpleicons.org/mysql" alt="mysql" height="48" width="48">
 <img src="https://cdn.simpleicons.org/firebase" alt="firebase" height="48" width="48">
   <img src="https://cdn.simpleicons.org/mongodb" alt="mongodb" height="48" width="48">
 <img src="https://cdn.simpleicons.org/flutter" alt="flutter" height="48" width="48">
-<img src="https://cdn.simpleicons.org/mariadb" alt="mariadb" height="48" width="48>
+<img src="https://cdn.simpleicons.org/mariadb" alt="mariadb" height="48" width="48">
   </p>
-  
   </br>
-  </br>
-  
-  </br>
-  </br>
-<p align = "center"> DevOps </br></br>
+<p align = "center"> DevOps </br> </br>
 <img src="https://cdn.simpleicons.org/jira" alt="jira" height="48" width="48">
 <img src="https://cdn.simpleicons.org/github" alt="github" height="48" width="48">
 <img src="https://cdn.simpleicons.org/vercel" alt="vercel" height="48" width="48">
 </p>
-  </br>  </br>
+  </br>
+
+
 
 
 
