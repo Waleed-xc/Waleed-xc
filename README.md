@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Waleed</h1>
-<p align = "center"> Web-Development </br>
+<p align = "center"> Web-Development </br> </br>
 <img src="https://cdn.simpleicons.org/nextdotjs" alt="Nextjs" height="48" width="48">
 <img src="https://cdn.simpleicons.org/react" alt="react" height="48" width="48">
 <img src="https://cdn.simpleicons.org/express" alt="express" height="48" width="48">
@@ -17,14 +17,14 @@
 <br/>
 <br/>
 
-<p align = "center"> Mobile-Development 
+<p align = "center"> Mobile-Development </br></br>
 <img src="https://cdn.simpleicons.org/kotlin" alt="kotlin" height="48" width="48">
 <img src="https://cdn.simpleicons.org/flutter" alt="flutter" height="48" width="48">
 </p>
 <br/>
 <br/>
 
-<p align = "center"> Database
+<p align = "center"> Database </br></br>
 <img src="https://cdn.simpleicons.org/mysql" alt="mysql" height="48" width="48">
 <img src="https://cdn.simpleicons.org/firebase" alt="firebase" height="48" width="48">
   <img src="https://cdn.simpleicons.org/mongodb" alt="mongodb" height="48" width="48">
@@ -35,7 +35,7 @@
   
   </br>
   </br>
-<p align = "center"> DevOps 
+<p align = "center"> DevOps </br></br>
 <img src="https://cdn.simpleicons.org/jira" alt="jira" height="48" width="48">
 <img src="https://cdn.simpleicons.org/github" alt="github" height="48" width="48">
 <img src="https://cdn.simpleicons.org/vercel" alt="vercel" height="48" width="48">
