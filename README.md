@@ -19,7 +19,7 @@
 
 <br/>
 <p align = "center"> Mobile-Development </p>
-<div algin="center">
+<div style= "text-align:"center;">
 <img src="https://cdn.simpleicons.org/kotlin" alt="kotlin" height="48" width="48">
 <img src="https://cdn.simpleicons.org/flutter" alt="flutter" height="48" width="48">
 </div>
