@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Waleed</h1>
-<p align = "center"> Web-Development
+<p align = "center"> Web-Development </br>
 <img src="https://cdn.simpleicons.org/nextdotjs" alt="Nextjs" height="48" width="48">
 <img src="https://cdn.simpleicons.org/react" alt="react" height="48" width="48">
 <img src="https://cdn.simpleicons.org/express" alt="express" height="48" width="48">
